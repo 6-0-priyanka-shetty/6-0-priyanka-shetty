@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @6-0-priyanka-shetty
-- 👀 I’m interested in ... Ethical hacking 
-- 🌱 I’m currently learning ... coding 
-- 💞️ I’m looking to collaborate on ...new beginner projects 
+*"Hi there! I'm Priyanka Shetty, a second year BCA student on a journey to explore the world of technology and cybersecurity. While I'm still building my skills, I've learned the basics of Java and C, and I’m currently diving into Python and ethical hacking.
+
+I'm not an expert (yet!), but I’m passionate about learning and challenging myself to grow. In my free time, you'll find me listening to music, watching adventure movies or Korean dramas, and dreaming about future adventures.
+
+Feel free to check out my repositories or reach out if you want to collaborate on beginner-friendly projects!"*
+
 - 📫 How to reach me ... priyankashetty415@gmail.com
 
 <!---
